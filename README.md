@@ -44,5 +44,5 @@ time ./parteX < input.txt > /dev/null
 |:--|--:|
 | `small_input.txt` | 0.00 |
 | `medium_input.txt` | 0.00 |
-| `large_input.txt` | 3.4 |
+| `large_input.txt` | 3.40 |
 
